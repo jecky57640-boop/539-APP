@@ -6,8 +6,8 @@ import io
 # ==========================================
 # 1. 網頁設定
 # ==========================================
-st.set_page_config(page_title="立騰全能分析", page_icon="🎱", layout="wide")
-st.title("📱 立騰專用 - 全能制霸分析系統 (完全同步版)")
+st.set_page_config(page_title="金虎制霸全能分析", page_icon="🎱", layout="wide")
+st.title("📱 539專用 - 金虎制霸分析系統 (WEB版)")
 st.markdown("""
 <style>
     .big-font { font-size:20px !important; font-weight: bold; }
